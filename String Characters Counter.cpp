@@ -1,5 +1,6 @@
 // Counter of characters in a string
 #include <iostream>
+#include <conio.h>
 using namespace std;
 
 int main()
