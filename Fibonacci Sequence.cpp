@@ -24,6 +24,7 @@ int main()
 		}
 		cout<<f2;
 	}
+	getch();
 
 	return 0;
 }
