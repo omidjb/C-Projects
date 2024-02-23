@@ -1,4 +1,4 @@
-// quadratic equation real roots finder
+// Quadratic Equation Real Roots Finder
 #include <iostream>
 #include <conio.h>
 #include <cmath> // we need to solve square root
