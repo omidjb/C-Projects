@@ -1,4 +1,4 @@
-// all integer types range
+// All integer types range
 #include<iostream>
 #include<conio.h>
 using namespace std;
