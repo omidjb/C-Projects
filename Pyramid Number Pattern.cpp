@@ -1,4 +1,4 @@
-// pyramid number pattern
+// Pyramid Number Pattern
 #include <iostream>
 #include <conio.h>
 using namespace std;
